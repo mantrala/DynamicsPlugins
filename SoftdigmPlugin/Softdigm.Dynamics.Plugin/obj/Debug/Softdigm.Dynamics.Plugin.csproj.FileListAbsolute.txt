@@ -1,0 +1,6 @@
+C:\Users\sarama\Documents\Visual Studio 2012\Projects\SoftdigmPlugin\Softdigm.Dynamics.Plugin\obj\Debug\Softdigm.Dynamics.Plugin.csprojResolveAssemblyReference.cache
+C:\Users\sarama\Documents\Visual Studio 2012\Projects\SoftdigmPlugin\Softdigm.Dynamics.Plugin\bin\Debug\Softdigm.Dynamics.Plugin.dll
+C:\Users\sarama\Documents\Visual Studio 2012\Projects\SoftdigmPlugin\Softdigm.Dynamics.Plugin\bin\Debug\Softdigm.Dynamics.Plugin.pdb
+C:\Users\sarama\Documents\Visual Studio 2012\Projects\SoftdigmPlugin\Softdigm.Dynamics.Plugin\bin\Debug\microsoft.xrm.sdk.dll
+C:\Users\sarama\Documents\Visual Studio 2012\Projects\SoftdigmPlugin\Softdigm.Dynamics.Plugin\obj\Debug\Softdigm.Dynamics.Plugin.dll
+C:\Users\sarama\Documents\Visual Studio 2012\Projects\SoftdigmPlugin\Softdigm.Dynamics.Plugin\obj\Debug\Softdigm.Dynamics.Plugin.pdb

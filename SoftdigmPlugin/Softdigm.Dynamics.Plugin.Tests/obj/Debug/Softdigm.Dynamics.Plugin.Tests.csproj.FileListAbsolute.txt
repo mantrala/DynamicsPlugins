@@ -1,0 +1,9 @@
+C:\Users\sarama\Documents\Visual Studio 2012\Projects\SoftdigmPlugin\Softdigm.Dynamics.Plugin.Tests\obj\Debug\Softdigm.Dynamics.Plugin.Tests.csprojResolveAssemblyReference.cache
+C:\Users\sarama\Documents\Visual Studio 2012\Projects\SoftdigmPlugin\Softdigm.Dynamics.Plugin.Tests\bin\Debug\Softdigm.Dynamics.Plugin.Tests.dll
+C:\Users\sarama\Documents\Visual Studio 2012\Projects\SoftdigmPlugin\Softdigm.Dynamics.Plugin.Tests\bin\Debug\Softdigm.Dynamics.Plugin.Tests.pdb
+C:\Users\sarama\Documents\Visual Studio 2012\Projects\SoftdigmPlugin\Softdigm.Dynamics.Plugin.Tests\bin\Debug\microsoft.xrm.sdk.dll
+C:\Users\sarama\Documents\Visual Studio 2012\Projects\SoftdigmPlugin\Softdigm.Dynamics.Plugin.Tests\bin\Debug\Moq.dll
+C:\Users\sarama\Documents\Visual Studio 2012\Projects\SoftdigmPlugin\Softdigm.Dynamics.Plugin.Tests\bin\Debug\Softdigm.Dynamics.Plugin.dll
+C:\Users\sarama\Documents\Visual Studio 2012\Projects\SoftdigmPlugin\Softdigm.Dynamics.Plugin.Tests\bin\Debug\Softdigm.Dynamics.Plugin.pdb
+C:\Users\sarama\Documents\Visual Studio 2012\Projects\SoftdigmPlugin\Softdigm.Dynamics.Plugin.Tests\obj\Debug\Softdigm.Dynamics.Plugin.Tests.dll
+C:\Users\sarama\Documents\Visual Studio 2012\Projects\SoftdigmPlugin\Softdigm.Dynamics.Plugin.Tests\obj\Debug\Softdigm.Dynamics.Plugin.Tests.pdb

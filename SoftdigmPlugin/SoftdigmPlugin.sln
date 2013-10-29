@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3rdPartyReferences", "3rdPartyReferences", "{0F82B113-4605-4D73-9B43-8C5448AB9D18}"
+	ProjectSection(SolutionItems) = preProject
+		3rdPartyReferences\microsoft.crm.sdk.proxy.dll = 3rdPartyReferences\microsoft.crm.sdk.proxy.dll
+		3rdPartyReferences\microsoft.xrm.client.dll = 3rdPartyReferences\microsoft.xrm.client.dll
+		3rdPartyReferences\microsoft.xrm.sdk.dll = 3rdPartyReferences\microsoft.xrm.sdk.dll
+		3rdPartyReferences\Moq.dll = 3rdPartyReferences\Moq.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softdigm.Dynamics.Plugin", "Softdigm.Dynamics.Plugin\Softdigm.Dynamics.Plugin.csproj", "{1AC733A9-2F94-4CC3-82B4-F5F2E69BBB66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softdigm.Dynamics.Plugin.Tests", "Softdigm.Dynamics.Plugin.Tests\Softdigm.Dynamics.Plugin.Tests.csproj", "{7179D5C6-2E3F-48B5-84A4-A36803198A71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AC733A9-2F94-4CC3-82B4-F5F2E69BBB66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC733A9-2F94-4CC3-82B4-F5F2E69BBB66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC733A9-2F94-4CC3-82B4-F5F2E69BBB66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC733A9-2F94-4CC3-82B4-F5F2E69BBB66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7179D5C6-2E3F-48B5-84A4-A36803198A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7179D5C6-2E3F-48B5-84A4-A36803198A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7179D5C6-2E3F-48B5-84A4-A36803198A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7179D5C6-2E3F-48B5-84A4-A36803198A71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
